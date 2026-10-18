@@ -1,0 +1,1 @@
+The website source of www.cuboidmc.com is NOT located in the organization and located instead here: https://github.com/AquaWarden/CuboidMC-Website
